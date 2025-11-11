@@ -1,3 +1,4 @@
+/*
 import { siteConfig } from '@/lib/config'
 
 /**
@@ -17,3 +18,4 @@ export default function PoweredBy(props) {
     </div>
   )
 }
+*/
